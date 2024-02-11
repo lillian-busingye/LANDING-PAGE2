@@ -1,9 +1,11 @@
 parent {
     text-align: center;
 }
+
 .statement {
     text-align: center;
 }
+
 .btn1 {
     background-color: lightseagreen;
     border-radius: 40px;
@@ -11,6 +13,7 @@ parent {
     padding: 8px;
     border: none;
 }
+
 .btn2 {
     border-radius: 40px;
     background-color: blue;
@@ -18,24 +21,30 @@ parent {
     padding: 8px;
     border: none;
 }
+
 .statement {
     margin-bottom: 50px;
 }
+
 .preview1 {
     width: 50%;
     display: flex;
     text-align: center;
     padding-left: 30rem;
 }
+
 .icon {
     width: 30px;
 }
+
 .h {
     font-size: 20px;
 }
+
 p {
     color: gray;
 }
+
 .preview2 {
     width: 50%;
     display: flex;
@@ -47,6 +56,15 @@ p {
     padding-bottom: 20px;
     border-radius: 2%;
 }
+
 .icon2 {
     width: 100px;
+}
+
+.copyright2 {
+    background: rgb(231, 222, 222);
+    width: 30px;
+    height: 30px;
+    padding-left: 90px;
+    margin-top: 20px;
 }
