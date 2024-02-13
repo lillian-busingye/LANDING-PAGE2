@@ -57,6 +57,10 @@ p {
     border-radius: 2%;
 }
 
+.aside {
+    padding-left: 40px;
+}
+
 .icon2 {
     width: 100px;
 }
@@ -67,4 +71,10 @@ p {
     height: 30px;
     padding-left: 90px;
     margin-top: 20px;
+}
+
+.list {
+    display: block;
+    list-style-type: none;
+    padding-inline-start: 10px;
 }
