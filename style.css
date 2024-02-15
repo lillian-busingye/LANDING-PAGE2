@@ -78,3 +78,7 @@ p {
     list-style-type: none;
     padding-inline-start: 10px;
 }
+
+.btn :hover {
+    cursor: pointer;
+}
